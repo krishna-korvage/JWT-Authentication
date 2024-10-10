@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container text-center mt-5">
-        <h1>Welcome to the Web App</h1>
+        <h1>Welcome to the Korvage</h1>
         <div class="mt-4">
             <a href="{{ route('login') }}" class="btn btn-primary me-2">Login</a>
             <a href="{{ route('register') }}" class="btn btn-secondary">Register</a>

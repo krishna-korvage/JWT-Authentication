@@ -14,7 +14,7 @@ use App\Http\Controllers\ActivityController;
 
 // Route::post('/login', [AuthController::class, 'login']);
 
-// Route::post('/logout', [AuthController::class, 'logout']);
+Route::post('/logout', [AuthController::class, 'logout']);
 
 
 
